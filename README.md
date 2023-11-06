@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fairuz Irgawan Sinaga</h1>
-<h3 align="center">Fullstack Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 📫 How to reach me **fairuzirgawan77@gmail.com**
 
